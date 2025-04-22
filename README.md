@@ -16,13 +16,12 @@ Hi! I'm Greeshma — a final-year Computer Science student, aspiring to become a
 
 ## 🛠 Tech Stack & Tools
 
-<div align="center">
+- 💻 **Languages**: Java, JavaScript, SQL
+- 🌐 **Front-End**: HTML, CSS, React, Angular, Tailwind CSS, Bootstrap
+- 🧠 **Back-End**: Node.js, Express, Hibernate, PostgreSQL
+- 🧰 **Tools**: Git, GitHub, VS Code, Postman
+- 🚀 **Deployment**: GitHub Pages, Netlify, Vercel
 
-| 💻 Languages      | 🌐 Front-End      | 🧠 Back-End         | 🛠 Tools/Other     |
-|------------------|------------------|---------------------|--------------------|
-| Java, JS, SQL     | HTML, CSS, JS, React, Angular, Tailwind | Node.js, Express, Hibernate | Git, GitHub, VS Code, Postman |
-
-</div>
 
 ---
 
