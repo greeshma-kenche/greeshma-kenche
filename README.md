@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm Greeshma Kenche 👩‍💻</h1>
-<p align="center">learning my way into full-stack development, one project and bug at a time.</p>
 
 ---
 
@@ -14,13 +13,36 @@ I’m still early in my journey of creating personal projects, but I’m activel
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
-- 💻 **Languages**: Java, JavaScript, SQL
-- 🌐 **Front-End**: HTML, CSS, React, Angular, Tailwind CSS, Bootstrap
-- 🧠 **Back-End**: Node.js, Express, Hibernate, PostgreSQL
-- 🧰 **Tools**: Git, GitHub, VS Code, Postman
-- 🚀 **Deployment**: GitHub Pages, Netlify, Vercel
+### **Languages & Frameworks**  
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)  
+![React](https://img.shields.io/badge/React-16.13%2B-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-14%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-4.17.1-000000?style=for-the-badge&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4.2+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-5-FF5722?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Sass](https://img.shields.io/badge/Sass-1.32+-CC6699?style=for-the-badge&logo=sass&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2.0+-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### **Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4.2+-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Tools & Libraries**  
+![Git](https://img.shields.io/badge/Git-2.30+-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS%20Code-1.56.0-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-100000?style=for-the-badge&logo=chrome&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-7.29-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Heroku](https://img.shields.io/badge/Heroku-7.39-430098?style=for-the-badge&logo=heroku&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-20.10.5-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### **Other Skills**  
+![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-8A2BE2?style=for-the-badge&logo=python&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-1.0-27A1C6?style=for-the-badge&logo=agile&logoColor=white)
+
 
 
 ---
