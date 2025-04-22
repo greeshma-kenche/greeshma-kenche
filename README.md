@@ -1,16 +1,16 @@
-<h1 align="center">Hey there! I'm Greeshma Kencche 👩‍💻</h1>
-<p align="center">🌸 Passionate Web Developer | 🎓 Final-Year CS Student | ✨ UI/UX Enthusiast</p>
+<h1 align="center">Hey there! I'm Greeshma Kenche 👩‍💻</h1>
+<p align="center">learning my way into full-stack development, one project and bug at a time.</p>
 
 ---
 
 ## 💫 About Me
 
-Hi! I'm Greeshma — a final-year Computer Science student, aspiring to become a creative and skilled software developer. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My focus right now is building interactive, responsive websites and continuously sharpening my skills across the full stack.
+Hi, I'm Greeshma Kenche — a final-year Computer Science student currently diving deep into JavaScript and the MERN stack. I’m working on building real-world projects to strengthen my web development skills and get more confident with full-stack development.
 
-- 🎓 **Graduating in May 2025**
-- 🌱 Learning: React, Tailwind CSS, and modern JavaScript
-- 🔍 Exploring: UI animations, responsive design, and debugging techniques
-- 💬 Always curious and constantly growing — one project at a time
+Previously, I worked as a Full Stack Developer at OpenText, where I gained experience using Java and other backend technologies. Now, I'm focused on expanding my skills on the JavaScript side while also learning Data Structures and Algorithms to become a stronger problem-solver.
+
+I’m still early in my journey of creating personal projects, but I’m actively learning, experimenting, and building — one step at a time. 💻
+
 
 ---
 
