@@ -36,8 +36,8 @@ I’m still early in my journey of creating personal projects, but I’m activel
 I love meeting people who are passionate about tech and creativity — whether it's for collaboration, guidance, or just to say hi. 😊
 
 - 📬 **Email**: greeshmakenche25@gmail.com  
-- 💼 **LinkedIn**: [linkedin.com/in/greeshma-kencche](https://www.linkedin.com/in/greeshma-kenche/)
-- 💻 **GitHub**: [github.com/greeshma-kencche](https://github.com/greeshma-kencche)
+- 💼 **LinkedIn**: [greeshma-kencche](https://www.linkedin.com/in/greeshma-kenche/)
+- 💻 **GitHub**: [greeshma-kencche](https://github.com/greeshma-kencche)
 
 ---
 
